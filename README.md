@@ -14,4 +14,4 @@ The purpose of this project is to demonstrate your ability to collect, work with
 3. You'll have a "UCI HAR Dataset" folder in your working directory.
 4. Put "run_analysis.R" in your working directory.
 5. Install package "reshape2" which will be used in the R script.
-6. Run source("run_analysis.R"), then it will generate a output file "tiny.txt" in your working directory.
+6. Run source("run_analysis.R"), then it will generate a output file "tidy.txt" in your working directory.
