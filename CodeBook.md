@@ -52,3 +52,4 @@ The sample of resulting variable names are of the following form:
 * timeBodyAccMeanX, which means the mean value of tBodyAcc-X.
 * timeGravityAccStdX, which means the standard deviation of tGravityAcc-X.
 * frequencyBodyAccMeanX, which means the mean value of fBodyAcc-X.
+Note: Replace "t" with "time", "f" with "frequency", "mean()" with "Mean" and "std() with "Std" in variables name. 
